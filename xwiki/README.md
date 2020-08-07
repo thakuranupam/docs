@@ -14,6 +14,8 @@ WARNING:
 
 -->
 
+**Note:** this is the "per-architecture" repository for the `amd64` builds of [the `xwiki` official image](https://hub.docker.com/_/xwiki) -- for more information, see ["Architectures other than amd64?" in the official images documentation](https://github.com/docker-library/official-images#architectures-other-than-amd64) and ["An image's source changed in Git, now what?" in the official images FAQ](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what).
+
 # Quick reference
 
 -	**Maintained by**:  
@@ -28,6 +30,8 @@ WARNING:
 -	[`11-postgres-tomcat`, `11.10-postgres-tomcat`, `11.10.8-postgres-tomcat`, `lts-postgres-tomcat`, `lts-postgres`](https://github.com/xwiki-contrib/docker-xwiki/blob/f789f9e2a10c1a54cfd5bdb070a9259c17422c53/11/postgres-tomcat/Dockerfile)
 -	[`12`, `12.6`, `12.6.0`, `12-mysql-tomcat`, `12.6-mysql-tomcat`, `12.6.0-mysql-tomcat`, `mysql-tomcat`, `stable-mysql-tomcat`, `stable-mysql`, `stable`, `latest`](https://github.com/xwiki-contrib/docker-xwiki/blob/09c408b0cb37dba527021a35504afacbc1d55d4a/12/mysql-tomcat/Dockerfile)
 -	[`12-postgres-tomcat`, `12.6-postgres-tomcat`, `12.6.0-postgres-tomcat`, `postgres-tomcat`, `stable-postgres-tomcat`, `stable-postgres`](https://github.com/xwiki-contrib/docker-xwiki/blob/09c408b0cb37dba527021a35504afacbc1d55d4a/12/postgres-tomcat/Dockerfile)
+
+[![amd64/xwiki build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/amd64/job/xwiki.svg?label=amd64/xwiki%20%20build%20job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/xwiki/)
 
 # Quick reference (cont.)
 
